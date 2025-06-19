@@ -30,7 +30,7 @@ public class ConversorCeF {
            resto = conversor/1.8;
            System.out.println("O resultado é: "+conversor+"Cº");
        }else{
-           System.out.println("Opção invalida! Tente novamente.");
+           System.out.println("Opção inválida! Tente novamente.");
        }
        
        
