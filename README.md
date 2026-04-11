@@ -20,22 +20,12 @@ Exiba o resultado na tela
 
 A conversão de Celsius para Fahrenheit é feita utilizando a seguinte fórmula:
 
-𝐹
-=
-(
-𝐶
-×
-9
-/
-5
-)
-+
-32
 F=(C×9/5)+32
 
 Onde:
 
 C = temperatura em Celsius
+
 F = temperatura em Fahrenheit
 
 💻 Tecnologias Utilizadas
