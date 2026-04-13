@@ -4,8 +4,6 @@
 
 Este projeto foi desenvolvido como parte de um exercício proposto pelo professor Gerson Risso, docente da disciplina Programação de Soluções Computacionais, do curso de Ciência da Computação da Universidade Anhembi Morumbi (campus Mooca).
 
-O objetivo do exercício é praticar conceitos básicos de programação em Java, como entrada de dados, processamento e saída de informações.
-
 🎯 Objetivo
 
 Elaborar um programa em Java que:
