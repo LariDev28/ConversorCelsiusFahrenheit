@@ -26,7 +26,7 @@ C = temperatura em Celsius
 
 F = temperatura em Fahrenheit
 
-🧠 Arquitetura do Sistema
+🏗️ Arquitetura do Sistema
 
 Assim como no meu projeto de conversão dólar/real esse programa segue um roteiro lógico e direto: ele interpreta a escolha do usuário entre Celsius e Fahrenheit, aplica a fórmula matemática correspondente e entrega o resultado no console. 
 
