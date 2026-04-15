@@ -6,13 +6,7 @@ Este projeto foi desenvolvido como parte de um exercício proposto pelo professo
 
 🎯 Objetivo
 
-Elaborar um programa em Java que:
-
-Leia uma temperatura em graus Celsius
-
-Converta esse valor para graus Fahrenheit
-
-Exiba o resultado na tela
+Transformar fórmulas matemáticas em soluções de software, permitindo que o usuário alterne livremente entre as escalas térmicas Celsius e Fahrenheit com precisão.
 
 🧮 Fórmula Utilizada
 
@@ -50,7 +44,7 @@ Digite a temperatura em Celsius: 25
 
 Temperatura em Fahrenheit: 77.0
 
-📌 Aprendizados que adquiri
+📌 Aprendizados 
 
 Entrada de dados com Scanner
 
@@ -62,7 +56,7 @@ Estrutura básica de um programa em Java
 
 🧾 Conclusão
 
-A realização deste exercício me permitiu compreender na prática como aplicar conceitos fundamentais da programação em Java, especialmente no que diz respeito à manipulação de dados de entrada, processamento de informações e exibição de resultados.
+Este exercício foi um passo importante para consolidar o uso de variáveis de ponto flutuante (double) e entender como o Java lida com precisão decimal. Assim como no projeto de conversão de moedas, aqui o desafio foi garantir que a lógica de programação respeitasse rigorosamente a lógica matemática, criando uma ferramenta simples, mas funcional e confiável.
 
 Além disso, a implementação da conversão de temperaturas reforça o uso de expressões matemáticas dentro do código, contribuindo para o desenvolvimento do raciocínio lógico e da organização do programa, assim como no projeto Conversor Dólar/Real.
 
