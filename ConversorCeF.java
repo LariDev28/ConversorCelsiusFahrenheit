@@ -28,7 +28,7 @@ public class ConversorCeF {
            tempF = teclado.nextDouble();
            conversor = tempF - 32;
            resto = conversor/1.8;
-           System.out.println("O resultado é: "+conversor+"Cº");
+           System.out.println("O resultado é: "+resto+"Cº");
        }else{
            System.out.println("Opção inválida! Tente novamente.");
        }
